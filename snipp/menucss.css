@@ -57,7 +57,7 @@ nav{
     padding-right:0px;
 }
 .logo img{
-background-image: url("css/index.jpg");
+
 width: 150px;
 height:150px;
 float:left;
@@ -128,7 +128,7 @@ body{
 .one1{
     width:200px;
     height:200px;
-    background-image:url("images/lunch.jpg");
+    
     margin:40px;
     margin-left:80px;
 	float:left;
@@ -139,7 +139,7 @@ body{
     float:left;
     width:200px;
     height:200px;
-    background-image:url("images/soup.jpg");
+    
     margin:40px;
 	margin-left:80px;
 	box-shadow: 3px 3px 3px rgb(88, 82, 82);
@@ -148,7 +148,7 @@ body{
     float:left;
     width:200px;
     height:200px;
-    background-image:url("images/aapet.jpg");
+    
     margin:40px;
 	margin-left:80px;
 	box-shadow: 3px 3px 3px rgb(88, 82, 82);
@@ -157,7 +157,7 @@ body{
     float:left;
     width:200px;
     height:200px;
-    background-image:url("images/veal.jpg");
+    
     margin:40px;
 	margin-left:80px;
 	box-shadow: 3px 3px 3px rgb(88, 82, 82);
